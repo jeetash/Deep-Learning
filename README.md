@@ -1,2 +1,1 @@
-# Deep-Learning
-Deep Learning specialization by deeplearning.ai  by Andrew Ng
+## Deep Learning specialization on (Coursera) deeplearning.ai  by Andrew Ng
